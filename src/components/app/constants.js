@@ -1,0 +1,4 @@
+export const LOAD_LOGS = 'LOAD_LOGS';
+export const LOAD_LOGS_SUCCESS = 'LOAD_LOGS_SUCCESS';
+export const LOAD_LOGS_FAILURE = 'LOAD_LOGS_FAILURE';
+export const SET_LOADING = 'SET_LOADING';

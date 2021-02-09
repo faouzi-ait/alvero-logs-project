@@ -1,0 +1,51 @@
+[{
+      "time": "2016-09-20 16:23:10,994",
+      "severity": "ERROR",
+      "message": "This is an error message"
+   },
+   {
+      "time": "2016-09-20 16:23:09,900",
+      "severity": "ERROR",
+      "message": "This is an error message"
+   },
+   {
+      "time": "2016-09-20 16:23:08,880",
+      "severity": "ERROR",
+      "message": "This is an error message"
+   },
+   {
+      "time": "2016-09-20 16:23:07,870",
+      "severity": "WARNING",
+      "message": "This is a warning message"
+   },
+   {
+      "time": "2016-09-20 16:23:06,860",
+      "severity": "WARNING",
+      "message": "This is a warning message"
+   },
+   {
+      "time": "2016-09-20 16:23:05,850",
+      "severity": "WARNING",
+      "message": "This is a warning message"
+   },
+   {
+      "time": "2016-09-20 16:23:04,840",
+      "severity": "INFO",
+      "message": "This is an information message"
+   },
+   {
+      "time": "2016-09-20 16:23:03,830",
+      "severity": "INFO",
+      "message": "This is an information message"
+   },
+   {
+      "time": "2016-09-20 16:23:02,820",
+      "severity": "INFO",
+      "message": "This is an information message"
+   },
+   {
+      "time": "2016-09-20 16:23:01,810",
+      "severity": "INFO",
+      "message": "This is an information message"
+   }
+]
